@@ -2,6 +2,7 @@
 End-to-end data analysis project exploring pizza sales performance using SQL and Power BI. Including data cleaning, business KPI analysis, and a interactive dashboard revealing revenue trends, customer ordering behaviour, and product performance insight.
 
 
+![image alt](https://github.com/Primeholly/pizza-sales-analysis-sql-powerbi/blob/900a338358d137869cb56ae5e2ca073ffca2b97c/Dashboard%201.png)
 Technical Report on (SQL + Power BI) Pizza Sales Analysis Dashboard 
 For The Year 2024
 Project Overview
